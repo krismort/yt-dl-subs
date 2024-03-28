@@ -9,6 +9,6 @@
     "youtube-captions-scraper": "2.0.1"
   },
   "bin": {
-    "run-tool": "./index.js"
+    "yt-subs-dl": "./index.js"
   }
 }
